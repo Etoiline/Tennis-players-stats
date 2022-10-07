@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Rafael Nadal",
+    "win": 33,
+    "loss": 5
+  },
+  {
+    "name": "Carlos Alcaraz",
+    "win": 59,
+    "loss": 12
+  },
+  {
+    "name": "Novak Djokovic",
+    "win": 27,
+    "loss": 6
+  },
+  {
+    "name": "Alexander Zverev",
+    "win": 45,
+    "loss": 13
+  },
+  {
+    "name": "Daniil Medvedev",
+    "win": 53,
+    "loss": 16
+  },
+  {
+    "name": "Jannik Sinner",
+    "win": 55,
+    "loss": 17
+  },
+  {
+    "name": "Nick Kyrgios",
+    "win": 30,
+    "loss": 10
+  },
+  {
+    "name": "Casper Ruud",
+    "win": 59,
+    "loss": 20
+  },
+  {
+    "name": "Stefanos Tsitsipas",
+    "win": 51,
+    "loss": 20
+  },
+  {
+    "name": "Matteo Berrettini",
+    "win": 32,
+    "loss": 13
+  },
+  {
+    "name": "Andrey Rublev",
+    "win": 50,
+    "loss": 23
+  },
+  {
+    "name": "Taylor Fritz",
+    "win": 45,
+    "loss": 21
+  },
+  {
+    "name": "Gael Monfils",
+    "win": 23,
+    "loss": 11
+  },
+  {
+    "name": "Cameron Norrie",
+    "win": 55,
+    "loss": 27
+  },
+  {
+    "name": "Hubert Hurkacz",
+    "win": 44,
+    "loss": 22
+  },
+  {
+    "name": "Roberto Bautista Agut",
+    "win": 35,
+    "loss": 18
+  },
+  {
+    "name": "Marin Cilic",
+    "win": 39,
+    "loss": 22
+  },
+  {
+    "name": "Jack Draper",
+    "win": 14,
+    "loss": 8
+  },
+  {
+    "name": "Felix Auger-Aliassime",
+    "win": 44,
+    "loss": 26
+  },
+  {
+    "name": "Pablo Carreno Busta",
+    "win": 37,
+    "loss": 23
+  }
+]
